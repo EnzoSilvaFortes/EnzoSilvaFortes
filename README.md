@@ -19,6 +19,14 @@ My goal is to graduate and build an international career as a developer, constan
 <!-- GitHub stats -->
 ![](https://github-readme-stats.vercel.app/api?username=enzosilvafortes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
+<div>
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosilvafortes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
 
 
 ### ⚙️ Tech Stack  
