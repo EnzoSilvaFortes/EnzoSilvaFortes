@@ -52,7 +52,7 @@ Essas são algumas das tecnologias com as quais venho trabalhando e estudando:
 ---
 
 ### 📫 Como me encontrar
-- Email: enzosilvafeiras@gmail.com  
+- Email: enzosilvafortes.dev@gmail.com  
 - LinkedIn: [linkedin.com/in/enzo-silva-fortes](https://www.linkedin.com/in/enzo-silva-fortes) *(troque se quiser)*
 - GitHub: [github.com/enzosilvafortes](https://github.com/enzosilvafortes)
 
